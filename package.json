@@ -1,0 +1,15 @@
+{
+  "name": "anify",
+  "version": "2.1.1",
+  "description": "Random Account_name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arghya-Mitra",
+  "license": "ISC",
+  "dependencies": {
+    "adjectives": "^1.0.2",
+    "animals": "0.0.3"
+  }
+}
